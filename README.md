@@ -1,4 +1,4 @@
-﻿#The Unity Style Guide
+﻿# The Unity Style Guide
 
 The goal of introducing a unified code style on all projects of the company created on the Unity Engine using the C # language are **conciseness**, **readability** and **simplicity**. Also, this guide is written to keep **Unity** in mind. 
 ## Table of Contents
