@@ -383,16 +383,16 @@ you can get dependencies in Start. But it is better to inject them through the f
 Because we like to create big trash, **Try** to delete everything which is not needed anymore and add something new in strict accordance with the directory hierarchy
 
 #### Directory names 
-- _Scenes - the prefix dash is used to never lose scenes in a pile of directories
-- Prefabs - for prefabs
-- Resources - for prefabs which should initialized directly from code, like Resources.Load
-- Scripts - for scripts, never forget to put classes into namespaces and in the corresponding directories.
-- Sprites - for sprites, never forget to put Sprites in the corresponding directories. Try not to make a dump, putting everything into one folder. Try to split them, and use Sprite sheets.  
-- Reusables - for Reusable content from project to project(Can be changed to Utils)
-- Animations - for Animators and Animations 
-- Localisations - for Localisations(I'm pron to use Unity's official localizer, but most of the people pron to use L2 )
-- Audios - for audios
-- Custom Assets(optional) - for storing third-party solutions(Plugins, Assets and etc.)
+- *_Scenes* - the prefix dash is used to never lose scenes in a pile of directories
+- *Prefabs* - for prefabs
+- *Resources* - for prefabs which should initialized directly from code, like Resources.Load
+- *Scripts* - for scripts, never forget to put classes into namespaces and in the corresponding directories.
+- *Sprites* - for sprites, never forget to put Sprites in the corresponding directories. Try not to make a dump, putting everything into one folder. Try to split them, and use Sprite sheets.  
+- *Reusables* - for Reusable content from project to project(Can be changed to Utils)
+- *Animations* - for Animators and Animations 
+- *Localisations* - for Localisations(I'm pron to use Unity's official localizer, but most of the people pron to use L2 )
+- *Audios* - for audios
+- *Custom Assets(optional)* - for storing third-party solutions(Plugins, Assets and etc.)
 
 ## Additional Material
 - Custom exception class names always end with the "Exception" postfix
