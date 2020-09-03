@@ -25,11 +25,10 @@ Our overarching goals are **conciseness**, **readability** and **simplicity**. A
   + [Vertical Spacing](#vertical-spacing)
 - [Brace Style](#brace-style)
 - [Switch Statements](#switch-statements)
-- [Language](#language)
-- [Copyright Statement](#copyright-statement)
-- [Smiley Face](#smiley-face)
-- [Credit](#credits)
-
+- [Scriptable Objects](#scriptable-objects)
+- [LifeCycle](#monobehaviour-lifecycle)
+- [Structure of Folders](#structure-of-the-folders)
+- [Additional Materials](#additional-material)
 
 ## Nomenclature
 
