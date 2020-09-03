@@ -20,7 +20,6 @@ Our overarching goals are **conciseness**, **readability** and **simplicity**. A
   + [Classes](#classes)
   + [Interfaces](#interfaces)
 - [Spacing](#spacing)
-  + [Indentation](#indentation)
   + [Line Length](#line-length)
   + [Vertical Spacing](#vertical-spacing)
 - [Brace Style](#brace-style)
